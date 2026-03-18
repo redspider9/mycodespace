@@ -1,2 +1,2 @@
-# opencode
-配置opencode
+# linux  学习笔记
+            
